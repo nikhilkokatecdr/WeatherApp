@@ -1,3 +1,6 @@
+**#Preview**
+https://weatherappflow.netlify.app/
+
 # Weather Dashboard App
 
 A simple and interactive weather dashboard web app that displays current weather information for any city, along with weather data for common cities in a table. Features temperature conversion, sunrise/sunset time, wind speed, humidity, and more.
